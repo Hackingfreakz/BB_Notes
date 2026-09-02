@@ -1,4 +1,8 @@
 
-| How Git Internally Works                                | [Link](https://octobot.medium.com/how-git-internally-works-1f0932067bee)                                      |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| How I made $64k from deleted files — a bug bounty story | [Link](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b) |
+| How Git Internally Works                                                                             | [Link](https://octobot.medium.com/how-git-internally-works-1f0932067bee)                                                                         |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| How I made $64k from deleted files — a bug bounty story                                              | [Link](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b)                                    |
+| How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of Targets | [Link](https://medium.com/@ferdusalam0/how-i-made-over-72-000-from-a-single-private-bug-bounty-program-without-chasing-hundreds-of-ce014773522c) |
+| Netflix Vulnerability: Dependency Confusion in Action                                                | [Link](https://www.landh.tech/blog/20250610-netflix-vulnerability-dependency-confusion/)                                                         |
+| Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies               | [Link](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)                                                                        |
+| Turning Dependency Confusion Research into a Profitable Stack                                        | [Link](https://medium.com/@shahwarshah/turning-dependency-confusion-research-into-a-profitable-stack-fe3504cb61be)                               |
