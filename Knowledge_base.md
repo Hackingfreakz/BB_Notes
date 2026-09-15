@@ -1,4 +1,5 @@
 
+
 | How Git Internally Works                                                                             | [Link](https://octobot.medium.com/how-git-internally-works-1f0932067bee)                                                                                                   |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | How I made $64k from deleted files — a bug bounty story                                              | [Link](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b)                                                              |
@@ -12,6 +13,7 @@
 | Email address of any user can be queried on Report Invitation GraphQL type when username is known    | [H1](https://hackerone.com/reports/792927)                                                                                                                                 |
 | Secrets in JavaScript Files 📜🔑: What Hackers Extract                                               | [Freedium](https://freedium-mirror.cfd/https://infosecwriteups.com/secrets-in-javascript-files-what-hackers-extract-60c18b6bf153)                                          |
 | How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow          | [Freedium](https://freedium-mirror.cfd/https://infosecwriteups.com/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997) |
+
 
 
 site:medium.com "storage.googleapis.com" "takeover" OR "bucket"
@@ -41,3 +43,7 @@ https://medium.com/@anas-nady/everything-about-cloud-bucket-hacking-s3-gcs-azure
 https://infosecwriteups.com/business-logic-flaw-that-no-one-knows-about-836859be1471?sk=6ea33151a00ed9ca6d930934a4ff4a25
 https://infosecwriteups.com/this-is-how-i-got-750-from-my-first-idor-8058061c65ba?sk=64921b238c460bf0a09ce00d6209b700
 https://infosecwriteups.com/100-in-seconds-lots-of-bug-hunters-miss-this-bug-but-you-dont-5e6371f4cb3e?sk=eebabf035bba3a606b6beecc2b189bba
+
+
+| trust-me-im-the-system-arango-db-bugs-secure-system-architecture/                                    | [link](https://remedio.io/blog/trust-me-im-the-system-arango-db-bugs-secure-system-architecture/)                                                                          |
+
