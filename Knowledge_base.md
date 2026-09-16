@@ -13,6 +13,12 @@
 | Email address of any user can be queried on Report Invitation GraphQL type when username is known    | [H1](https://hackerone.com/reports/792927)                                                                                                                                 |
 | Secrets in JavaScript Files 📜🔑: What Hackers Extract                                               | [Freedium](https://freedium-mirror.cfd/https://infosecwriteups.com/secrets-in-javascript-files-what-hackers-extract-60c18b6bf153)                                          |
 | How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow          | [Freedium](https://freedium-mirror.cfd/https://infosecwriteups.com/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997) |
+| trust-me-im-the-system-arango-db-bugs-secure-system-architecture                                     | [link](https://remedio.io/blog/trust-me-im-the-system-arango-db-bugs-secure-system-architecture/)                                                                          |
+| How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K                        | [Infosec](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36)                                             |
+| The Cookie Bomb: My First $10K in Bug Bounties                                                       | [Infosec](https://infosecwriteups.com/the-cookie-bomb-my-first-10k-in-bug-bounties-f86cb22c37fa)                                                                           |
+|                                                                                                      |                                                                                                                                                                            |
+|                                                                                                      |                                                                                                                                                                            |
+|                                                                                                      |                                                                                                                                                                            |
 
 
 
@@ -27,8 +33,8 @@ site:medium.com "Google Cloud Storage" bucket takeover writeup
 site:infosecwriteups.com "bucket takeover" OR "s3 takeover"
 site:infosecwriteups.com "broken link hijacking"
 
-https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36
-https://infosecwriteups.com/the-cookie-bomb-my-first-10k-in-bug-bounties-f86cb22c37fa
+
+
 https://infosecwriteups.com/how-i-took-over-a-forgotten-google-storage-bucket-used-to-distribute-helm-binaries-374ae959179f 	
 https://infosecwriteups.com/how-i-gained-access-to-revenue-and-traffic-data-of-thousands-of-shopify-stores-b6fe360cc369
 https://renganathanofficial.medium.com/
@@ -43,7 +49,3 @@ https://medium.com/@anas-nady/everything-about-cloud-bucket-hacking-s3-gcs-azure
 https://infosecwriteups.com/business-logic-flaw-that-no-one-knows-about-836859be1471?sk=6ea33151a00ed9ca6d930934a4ff4a25
 https://infosecwriteups.com/this-is-how-i-got-750-from-my-first-idor-8058061c65ba?sk=64921b238c460bf0a09ce00d6209b700
 https://infosecwriteups.com/100-in-seconds-lots-of-bug-hunters-miss-this-bug-but-you-dont-5e6371f4cb3e?sk=eebabf035bba3a606b6beecc2b189bba
-
-
-| trust-me-im-the-system-arango-db-bugs-secure-system-architecture/                                    | [link](https://remedio.io/blog/trust-me-im-the-system-arango-db-bugs-secure-system-architecture/)                                                                          |
-

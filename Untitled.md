@@ -1,0 +1,4 @@
+tebowupitulobimesutoqewomezayabuqaqawoci
+memnomic key
+
+ArjuN@1279
