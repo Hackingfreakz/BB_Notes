@@ -1,5 +1,7 @@
 
-| s.no | Title                                                                                                               |
-| ---- | ------------------------------------------------------------------------------------------------------------------- |
-| 1    | [Read this when feeling low](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0) |
-| 2    | [Focus on one bug for 12 months](https://www.youtube.com/watch?v=-PkK9DP5nec)                                       |
+| s.no | Title                                                                                                                                                                                                                                    |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [Read this when feeling low](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0)                                                                                                                      |
+| 2    | [Focus on one bug for 12 months](https://www.youtube.com/watch?v=-PkK9DP5nec)                                                                                                                                                            |
+| 3    | [Bug-Bounty From duplicates to $$$$ bounties: A bug bounty journey v2.0 that actually happened](https://chintangurjar.com/posts/bug-bounty-journey/)                                                                                     |
+| 4    | [𝐅𝐫𝐨𝐦 𝐎𝐯𝐞𝐫𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐭𝐨 𝐌𝐲 𝐅𝐢𝐫𝐬𝐭 𝐑𝐞𝐚𝐥 𝐖𝐞𝐛 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧](https://medium.com/@bharanidharan.security/my-first-bug-bounty-a-beginners-web-security-investigation-3085094265a9) |
